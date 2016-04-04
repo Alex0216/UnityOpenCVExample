@@ -24,3 +24,7 @@ void NativeLibExample::test(unsigned char* inputImage, float* output)
     output[1] = 0.5f;
 }
 
+int NativeLibExample::returnInt()
+{
+    return 5;
+}

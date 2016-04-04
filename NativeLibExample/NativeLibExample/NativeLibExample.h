@@ -6,5 +6,7 @@ namespace NativeLibExample
     extern "C"
     {
         void test(unsigned char* inputImage, float* output);
+
+        int returnInt();
     }
 }
