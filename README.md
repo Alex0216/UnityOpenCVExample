@@ -23,7 +23,7 @@ In Visual Studio we will need to create a new Dynamic Library for Android projec
 ![Dynamic Library for Android](https://github.com/Alex0216/UnityOpenCVExample/blob/master/picture/1.PNG)
 
 Next, we will need to include and link to the right library. In this example I will using OpenCV.
-We will use the OpenCV version that came with NVIDIA CodeWorks. There is plenty of information about this around the web, so I won't go into details here about this.
+We will use the OpenCV version that came with NVIDIA CodeWorks. This is just a standard include and linking in Visual Studio, there is nothing special here. There is plenty of information about this around the web if you are not familiar with this, so I won't go into details here about this.
 
 ![C/C++ - General/Additional Include Directories](https://github.com/Alex0216/UnityOpenCVExample/blob/master/picture/2.PNG)
 ![](https://github.com/Alex0216/UnityOpenCVExample/blob/master/picture/3.PNG)
