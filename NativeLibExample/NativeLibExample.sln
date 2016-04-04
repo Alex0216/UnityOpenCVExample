@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "NativeLibExample", "NativeLibExample\NativeLibExample.vcxproj", "{84103593-6C21-465E-9130-7F7584D0D41A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Tegra-Android = Debug|Tegra-Android
+		Release|Tegra-Android = Release|Tegra-Android
+		Shipping|Tegra-Android = Shipping|Tegra-Android
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84103593-6C21-465E-9130-7F7584D0D41A}.Debug|Tegra-Android.ActiveCfg = Debug|Tegra-Android
+		{84103593-6C21-465E-9130-7F7584D0D41A}.Debug|Tegra-Android.Build.0 = Debug|Tegra-Android
+		{84103593-6C21-465E-9130-7F7584D0D41A}.Release|Tegra-Android.ActiveCfg = Release|Tegra-Android
+		{84103593-6C21-465E-9130-7F7584D0D41A}.Release|Tegra-Android.Build.0 = Release|Tegra-Android
+		{84103593-6C21-465E-9130-7F7584D0D41A}.Shipping|Tegra-Android.ActiveCfg = Shipping|Tegra-Android
+		{84103593-6C21-465E-9130-7F7584D0D41A}.Shipping|Tegra-Android.Build.0 = Shipping|Tegra-Android
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
