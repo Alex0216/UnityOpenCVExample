@@ -30,6 +30,9 @@ We will use the OpenCV version that came with NVIDIA CodeWorks. There is plenty 
 ![](https://github.com/Alex0216/UnityOpenCVExample/blob/master/picture/4.PNG)
 
 ## Unity
+
+To use your library with Unity, you will need to copy the library (in our case NativeLibExample.so) and ALL its dependencies in your Plugins/Android folder. The dependencies you will want to copy are located under the NVPACK/OpenCV-2.4.8.2-Tegra-sdk/sdk/native folder.
+
 IN THE C# script in Unity
 
 You will need to import your function like this:
